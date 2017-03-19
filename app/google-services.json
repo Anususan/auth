@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333165275501",
+    "firebase_url": "https://passwordless-4878b.firebaseio.com",
+    "project_id": "passwordless-4878b",
+    "storage_bucket": "passwordless-4878b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333165275501:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333165275501-ea7pg97cbdnhf0q459q0b8ap181vqlec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.quickstart.auth",
+            "certificate_hash": "f8883f4ff65916659580af9c7a149e556c6ece76"
+          }
+        },
+        {
+          "client_id": "333165275501-r48bppre3sghbcoacc0qbjgtdi1qg7en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtWL3t2uivBZyczsD4GvA4QPKeMW2DDmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333165275501-r48bppre3sghbcoacc0qbjgtdi1qg7en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
